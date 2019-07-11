@@ -1,6 +1,7 @@
+<!DOCTYPE html>
 <html>
 <head>
-    <title>Responsi TCC</title>
+    <title>Responsi Maria</title>
     <link rel="stylesheet" type="text/css" href="assets/css/bootstrap.css">
     <script type="text/javascript" src="assets/js/bootstrap.js"></script>
 </head>
@@ -48,5 +49,8 @@
     </div>
 </body>
 </html>
+
+
+
 
 
