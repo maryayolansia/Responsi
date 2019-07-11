@@ -20,7 +20,7 @@
                         </div>
 
                         <div class="panel-body">
-                            <table border="5" width="100%">
+                            <table border="1" width="50%">
                                 <thead>
                                     <tr>
                                         <th>No</th>
