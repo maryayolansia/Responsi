@@ -20,7 +20,7 @@
                         </div>
 
                         <div class="panel-body">
-                            <table class="table table-stripped" width="100%">
+                            <table border="5" width="100%">
                                 <thead>
                                     <tr>
                                         <th>No</th>
