@@ -1,6 +1,6 @@
 <html>
 <head>
-    <title>Responsi TCCL</title>
+    <title>Responsi TCC</title>
     <link rel="stylesheet" type="text/css" href="assets/css/bootstrap.css">
     <script type="text/javascript" src="assets/js/bootstrap.js"></script>
 </head>
@@ -20,7 +20,7 @@
                         </div>
 
                         <div class="panel-body">
-                            <table border="2" width="100%">
+                            <table class="table table-stripped" width="100%">
                                 <thead>
                                     <tr>
                                         <th>No</th>
