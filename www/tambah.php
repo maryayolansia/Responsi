@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
     <title>Responsi Maria</title>
@@ -49,8 +48,5 @@
     </div>
 </body>
 </html>
-
-
-
 
 
